@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = StringReader
-build_property.ProjectDir = c:\Users\mjbru\Desktop\Arquivos e Streams .Net\StringReader\
+build_property.RootNamespace = csvStreamReader
+build_property.ProjectDir = C:\Users\mjbru\Desktop\Arquivos e Streams .Net\csvStream\
